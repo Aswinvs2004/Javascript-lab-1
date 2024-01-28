@@ -1,0 +1,45 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ffe4c4; /* Light Peach */
+    text-align: center;
+    margin: 50px;
+  }
+ 
+  label {
+    font-size: 1.5em;
+    margin-right: 10px;
+    color: #008080; /* Teal */
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 1.2em;
+    border: 2px solid #008080;
+    border-radius: 5px;
+  }
+  
+  button {
+    position: relative;
+    top: 50px;
+    padding: 20px 40px;
+    font-size: 1.5em;
+    background-color: #ff69b4; /* Light Pink */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #197fd3; /* Darker Pink */
+  }
+  
+  p {
+    position: relative;
+    top: 80px;
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #800080; /* Purple */
+  }
+  
